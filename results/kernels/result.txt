@@ -1,0 +1,5 @@
+The code shows the effect of using different kernels on the posterior of the GP.
+k1.png corresponds to a squared exponential kernel.
+k2.png corresponds to a rational quadratic kernel.
+k3.png corresponds to a Matern kernel.
+The three figures differ in their shape and the standard deviation of the figure showing how our choice of kernel affects the posterior and how we can use this fact to incorporate some structure in our data in the GP.

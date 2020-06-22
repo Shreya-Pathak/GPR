@@ -1,0 +1,3 @@
+The code shows the effect of using different parameters of the same kernels on the posterior of the GP.
+The parameters of the squared exponential kernel are mentioned on the figures.
+The three figures differ in their shape and the standard deviation of the figure showing how our choice of kernel parameters affects the posterior and how we can use this fact to incorporate some structure in our data in the GP.
